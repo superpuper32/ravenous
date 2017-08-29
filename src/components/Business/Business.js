@@ -22,7 +22,7 @@ class Business extends React.Component {
         </div>
       </div>
     </div>
-    )
+  );
   }
 }
 
